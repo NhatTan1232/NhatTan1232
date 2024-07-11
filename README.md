@@ -3,6 +3,7 @@
 <h3 align="center">A passionate data engineer student from Ho Chi Minh city, Viet Nam</h3>
 
 <img align="right" alt="Coding" width="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIrElbg0VlIERlxOxV-4heSvPG2fAs2RU1Bg&s">
+
 - 🌱 I’m currently learning **GCP**
 
 - 📫 How to reach me **vovankhanh12345678@gmail.com**
@@ -10,10 +11,16 @@
 - ⚡ Fun fact **I can dance**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/100069915024301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="100069915024301" height="30" width="40" /></a>
-<a href="https://instagram.com/tu4_nha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tu4_nha" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/nhattanvo5459" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nhattanvo5459" height="30" width="40" /></a>
+<p>
+  <a href="https://www.youtube.com/c/nhattanvo5459">
+    <img src="https://img.shields.io/badge/youtube-%2312100E.svg?&style=for-the-badge&logo=youtube&logoColor=white" height=25>
+  </a>
+  <a href="https://fb.com/100069915024301">
+    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25>
+  </a>
+  <a href="https://instagram.com/tu4_nha">
+    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
+  </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
