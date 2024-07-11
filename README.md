@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **vovankhanh12345678@gmail.com**
 
-- ⚡ Fun fact **I can dance**
+- ⚡ Fun fact **I can dance and speak 3 languages**
 
 <h3 align="left">Connect with me:</h3>
 <p>
